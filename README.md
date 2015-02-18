@@ -1,6 +1,6 @@
 # geSTOCK
-Desarrollador: <Martin Castillo> 2015
-Software para la Gestion de Inventarios
+Desarrollador: _Martin Castillo_ 2015
+Software para la Gestion de Inventarios 
 
 Desarrollado con Java 7, utilizando el IDE Eclipse Luna SR1a (4.4.1).
 
