@@ -1,0 +1,9 @@
+gesTOCK
+
+[builderguy] <Martin Castillo> 2015
+------------------------------------------------------------------
+Xerial SQLite JDBC Driver
+Copyright 2009 Taro L. Saito <leo@xerial.org>
+Versions of this product packaged with the Xerial SQLite JDBC Driver includes
+software developed as part of The Xerial SQLite JDBC Driver (http://www.xerial.org/).
+------------------------------------------------------------------
